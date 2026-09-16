@@ -99,8 +99,7 @@ For example, an English-only entry is valid:
   year: 2026, month: 11, day: 6,
   titleEn: "Example seminar title",
   speakerEn: "Example Speaker · Example University",
-  abstractEn: "The English abstract goes here.",
-  homepage: true
+  abstractEn: "The English abstract goes here."
 },
 ```
 
