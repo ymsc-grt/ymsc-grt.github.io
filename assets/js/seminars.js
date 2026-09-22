@@ -60,6 +60,12 @@
       year: 2026, month: 10, day: 30,
       speakerEn: "Yukinobu Toda · Kavli IPMU",
       speakerZh: "Yukinobu Toda · Kavli IPMU"
+    },
+    {
+      id: "2026-10-30-chunyu-bai",
+      year: 2026, month: 11, day: 7,
+      speakerEn: "Chunyu Bai · Edinburgh",
+      speakerZh: "Chunyu Bai · Edinburgh"
     }
   ];
 
