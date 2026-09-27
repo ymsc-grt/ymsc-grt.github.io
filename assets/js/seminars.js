@@ -50,10 +50,10 @@
       abstractZh: "在这场报告中，我将解释椭圆稳定包络（elliptic stable envelopes）的定义，并让听众理解为什么椭圆稳定包络的3D镜对称性（3d mirror symmetry）是一个非常值得研究的有趣课题。我将阐述如何将稳定包络的3D镜对称性与 Goresky–MacPherson 对偶性联系起来。如果时间允许，我还会讨论仿射 A 型弓簇（affine A bow varieties）情形下稳定包络3D镜对称性的证明；这是与Richárd Rimányi的合作工作。"
     },
     {
-      id: "2026-10-23-alyosha-latyntsev",
+      id: "2026-10-23-chunyu-bai",
       year: 2026, month: 10, day: 23,
-      speakerEn: "Alyosha Latyntsev · BIMSA",
-      speakerZh: "Alyosha Latyntsev · BIMSA"
+      speakerEn: "Chunyu Bai · University of Edinburgh",
+      speakerZh: "白纯雨 · 爱丁堡大学"
     },
     {
       id: "2026-10-30-yukinobu-toda",
@@ -62,10 +62,10 @@
       speakerZh: "Yukinobu Toda · Kavli IPMU"
     },
     {
-      id: "2026-11-06-chunyu-bai",
+      id: "2026-11-06-alyosha-latyntsev",
       year: 2026, month: 11, day: 6,
-      speakerEn: "Chunyu Bai · Edinburgh",
-      speakerZh: "Chunyu Bai · Edinburgh"
+      speakerEn: "Alyosha Latyntsev · BIMSA",
+      speakerZh: "Alyosha Latyntsev · BIMSA"
     }
   ];
 
