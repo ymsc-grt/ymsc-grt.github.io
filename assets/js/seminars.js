@@ -66,6 +66,12 @@
       year: 2026, month: 11, day: 6,
       speakerEn: "Alyosha Latyntsev · BIMSA",
       speakerZh: "Alyosha Latyntsev · BIMSA"
+    },
+    {
+      id: "2026-12-04-andy-neitzke",
+      year: 2026, month: 12, day: 4,
+      speakerEn: "Andy Neitzke · Yale University",
+      speakerZh: "Andy Neitzke · Yale University"
     }
   ];
 
