@@ -82,6 +82,14 @@
       year: 2026, month: 12, day: 4,
       speakerEn: "Andy Neitzke · Yale University",
       speakerZh: "Andy Neitzke · Yale University"
+    },
+    {
+      id: "2026-12-11-david-ssevviiri",
+      year: 2026, month: 12, day: 11,
+      titleEn: "Locally prime modules",
+      speakerEn: "David Ssevviiri · Makerere University, Kampala, Uganda",
+      speakerZh: "David Ssevviiri · Makerere University, Kampala, Uganda",
+      abstractEn: "For a commutative unital ring R with fixed ideals I and J, we introduce and study I-prime R-modules and (I,J)-prime R-modules together with  their duals I-coprime R-modules and (I,J)-coprime R-modules respectively. We employ category-theoretic techniques to reveal their structural properties. Our main results are versions of the Greenlees-May Duality and the Matlis-Greenlees-May Equivalence to the setting of these prime and coprime modules. This generalizes work on I-reduced modules and I-coreduced modules. We demonstrate that these \"locally prime\" modules serve as a tool for studying the classical \"globally prime\" modules, creating a bridge between local and global primality. This is joint work with Sholastica Luambano."
     }
   ];
 
