@@ -78,6 +78,12 @@
       speakerZh: "Alyosha Latyntsev · BIMSA"
     },
     {
+      id: "2026-11-27-jialiang-zou",
+      year: 2026, month: 11, day: 27,
+      speakerEn: "Jialiang Zou邹佳良 · AMSS, CAS",
+      speakerZh: "Jialiang Zou邹佳良 · AMSS, CAS"
+    },
+    {
       id: "2026-12-04-andy-neitzke",
       year: 2026, month: 12, day: 4,
       speakerEn: "Andy Neitzke · Yale University",
