@@ -68,8 +68,8 @@
     {
       id: "2026-11-06-tao-su",
       year: 2026, month: 11, day: 6,
-      speakerEn: "Tao Su · BIMSA",
-      speakerZh: "Tao Su · BIMSA"
+      speakerEn: "Tao Su 苏桃· BIMSA",
+      speakerZh: "Tao Su 苏桃· BIMSA"
     },
     {
       id: "2026-11-13-alyosha-latyntsev",
@@ -80,8 +80,8 @@
     {
       id: "2026-11-27-jialiang-zou",
       year: 2026, month: 11, day: 27,
-      speakerEn: "Jialiang Zou邹佳良 · AMSS, CAS",
-      speakerZh: "Jialiang Zou邹佳良 · AMSS, CAS"
+      speakerEn: "Jialiang Zou 邹佳良 · AMSS, CAS",
+      speakerZh: "Jialiang Zou 邹佳良 · AMSS, CAS"
     },
     {
       id: "2026-12-04-andy-neitzke",
