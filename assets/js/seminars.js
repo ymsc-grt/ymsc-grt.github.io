@@ -68,8 +68,10 @@
     {
       id: "2026-11-06-tao-su",
       year: 2026, month: 11, day: 6,
+      titleEn: "Generalized affine Springer fibers from planar curve singularities“，
       speakerEn: "Tao Su 苏桃· BIMSA",
-      speakerZh: "Tao Su 苏桃· BIMSA"
+      speakerZh: "Tao Su 苏桃· BIMSA",
+      abstractEn: "Planar curve singularities connect enumerative geometry with geometric representation theory through their punctual Hilbert schemes and local compactified Jacobians, moduli spaces of ideals of finite colength and rank-one torsion-free modules. I will introduce these spaces and survey conjectures of Oblomkov–Rasmussen–Shende and Cherednik–Danilenko–Philipp relating them to knot homology and DAHA. I will also discuss the perverse filtration and its connection to local wild P=W. Finally, I will present joint work with Taiwang Deng on affine pavings and purity for generalized affine Springer fibers arising from generic irreducible planar curve singularities, with cell combinatorics governed by non-coprime Dyck paths."
     },
     {
       id: "2026-11-13-alyosha-latyntsev",
