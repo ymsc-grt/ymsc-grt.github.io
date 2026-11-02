@@ -76,7 +76,6 @@
     {
       id: "2026-11-13-alyosha-latyntsev",
       year: 2026, month: 11, day: 13,
-      titleEn: "(Unusual time and location: 3:30-4:30pm, B626) TBA",
       speakerEn: "Alyosha Latyntsev · BIMSA",
       speakerZh: "Alyosha Latyntsev · BIMSA"
     },
