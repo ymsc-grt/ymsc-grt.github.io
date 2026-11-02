@@ -80,6 +80,12 @@
       speakerZh: "Alyosha Latyntsev · BIMSA"
     },
     {
+      id: "2026-11-19-yu-zhao",
+      year: 2026, month: 11, day: 19,
+      speakerEn: "Yu Zhao 赵禹 · Beijing Institute of Technology",
+      speakerZh: "Yu Zhao 赵禹 · Beijing Institute of Technology"
+    },
+    {
       id: "2026-11-27-jialiang-zou",
       year: 2026, month: 11, day: 27,
       speakerEn: "Jialiang Zou 邹佳良 · AMSS, CAS",
