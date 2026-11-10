@@ -80,7 +80,7 @@
       speakerEn: "Alyosha Latyntsev · BIMSA",
       speakerZh: "Alyosha Latyntsev · BIMSA",
       abstractEn: "Cohomological Hall algebras allow us to understand coherent sheaves on a CY3 - and similar categories - by turning them into objects in representation theory, by now constructed for any(!) CY3. I will explain what is the maximal amount of algebraic stucture existing on these on cohomological Hall algebras and their category of modules (with S. Jindal, S. Kaubrys, also with P. Descombes). I will then explain work in progress (with S. DeHority and W. Niu) about how to produce full quantum groups from these objects by a new chiral analogue of the Drinfeld double construction, relating to stable envelopes and the RTT construction. Physics motivation will be discussed but not too much."
-    }
+    },
     {
       id: "2026-11-19-yu-zhao",
       year: 2026, month: 11, day: 19,
