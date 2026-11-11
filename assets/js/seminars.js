@@ -96,8 +96,8 @@
     {
       id: "2026-12-04-andy-neitzke",
       year: 2026, month: 12, day: 4,
-      speakerEn: "Andy Neitzke · Yale University",
-      speakerZh: "Andy Neitzke · Yale University"
+      speakerEn: "Kaiwen Sun · USTC",
+      speakerZh: "孙凯文 · 中国科学技术大学"
     },
     {
       id: "2026-12-11-david-ssevviiri",
