@@ -84,8 +84,10 @@
     {
       id: "2026-11-19-yu-zhao",
       year: 2026, month: 11, day: 19,
+      titleEn: "(Unusual time and location: 3:30-4:30pm, B626) The affine Yangian of gl(1|1)",
       speakerEn: "Yu Zhao 赵禹 · Beijing Institute of Technology",
-      speakerZh: "Yu Zhao 赵禹 · Beijing Institute of Technology"
+      speakerZh: "Yu Zhao 赵禹 · Beijing Institute of Technology",
+      abstractEn: "The affine Yangian of gl(1|1) is first discussed by Yamazaki and Li in terms crystal melting on the resolved conifolds. It has many presentations, including the coha and the stable envelope of the resolved conifold and the RTT algebras. However, it still lacks a rigorous definition, unlike the general affine superyangian of sl(n|m) when n and m are different, which is the main topic of this talk."
     },
     {
       id: "2026-11-27-jialiang-zou",
