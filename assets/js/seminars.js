@@ -96,10 +96,17 @@
       speakerZh: "Jialiang Zou 邹佳良 · AMSS, CAS"
     },
     {
-      id: "2026-12-04-andy-neitzke",
+      id: "2026-12-04-kaiwen-sun",
       year: 2026, month: 12, day: 4,
       speakerEn: "Kaiwen Sun · USTC",
       speakerZh: "孙凯文 · 中国科学技术大学"
+    },
+    {
+      id: "2026-12-04-andy-neitzke",
+      year: 2026, month: 12, day: 10,
+      titleEn: "(Joint AdS/GRT seminar, 13:30-14:30pm, B627)",
+      speakerEn: "Andy Neitzke · Yale University",
+      speakerZh: "Andy Neitzke · Yale University"
     },
     {
       id: "2026-12-11-david-ssevviiri",
@@ -108,6 +115,13 @@
       speakerEn: "David Ssevviiri · Makerere University, Kampala, Uganda",
       speakerZh: "David Ssevviiri · Makerere University, Kampala, Uganda",
       abstractEn: "For a commutative unital ring R with fixed ideals I and J, we introduce and study I-prime R-modules and (I,J)-prime R-modules together with  their duals I-coprime R-modules and (I,J)-coprime R-modules respectively. We employ category-theoretic techniques to reveal their structural properties. Our main results are versions of the Greenlees-May Duality and the Matlis-Greenlees-May Equivalence to the setting of these prime and coprime modules. This generalizes work on I-reduced modules and I-coreduced modules. We demonstrate that these \"locally prime\" modules serve as a tool for studying the classical \"globally prime\" modules, creating a bridge between local and global primality. This is joint work with Sholastica Luambano."
+    },
+    {
+      id: "2027-01-08-xinyu-zhang",
+      year: 2027, month: 1, day: 8,
+      titleEn: "Real Donaldson–Thomas Theory on C^3",
+      speakerEn: "Xinyu Zhang · Zhejiang University",
+      speakerZh: "张欣宇 · 浙江大学"
     }
   ];
 
