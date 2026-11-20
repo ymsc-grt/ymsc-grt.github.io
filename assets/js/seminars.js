@@ -91,9 +91,11 @@
     },
     {
       id: "2026-11-27-jialiang-zou",
-      year: 2026, month: 11, day: 27,
-      speakerEn: "Jialiang Zou 邹佳良 · AMSS, CAS",
-      speakerZh: "Jialiang Zou 邹佳良 · AMSS, CAS"
+      year: 2026, month: 11, day: 26,
+      titleEn: "(Unusual time and location: 3:30-4:30pm) Relative Langlands Duality and Springer Theory",
+      speakerEn: "Jialiang Zou · AMSS, CAS",
+      speakerZh: "邹佳良 · AMSS, CAS",
+      abstractEn: "Ben-Zvi, Sakellaridis, and Venkatesh proposed a relative Langlands duality relating certain hyperspherical varieties for a reductive group G to varieties for its Langlands dual group. A conjecture of Finkelberg, Ginzburg, and Travkin predicts a relation between the top Borel–Moore homology groups of the associated Steinberg varieties as representations of the common Weyl group. I will discuss our work on this conjecture for the pair of hyperspherical varieties associated with the theta correspondence and the Gan–Gross–Prasad problem. Using Springer theory, we reduce the homological comparison to comparing the corresponding Hecke modules after specializing to q=1. A difficulty is that the theta side does not admit a G-equivariant polarization. We address this by using two complementary Schrödinger models and gluing their geometric realizations. This approach also suggests a possible Koszul-dual picture in the setting of mixed ell-adic sheaves. This talk is based on joint work with Congling Qiu, Jiajun Ma, and Zhiwei Yun, as well as ongoing work with Jiajun Ma and Zhiwei Yun."
     },
     {
       id: "2026-12-04-kaiwen-sun",
