@@ -100,8 +100,10 @@
     {
       id: "2026-12-04-kaiwen-sun",
       year: 2026, month: 12, day: 4,
+      titleEn: "Classification of quasi-lisse simple affine vertex algebras",
       speakerEn: "Kaiwen Sun · USTC",
-      speakerZh: "孙凯文 · 中国科学技术大学"
+      speakerZh: "孙凯文 · 中国科学技术大学",
+      abstractEn: "A vertex algebra is called quasi-lisse if its associated variety has finitely many symplectic leaves. Quasi-lisseness connects the geometry of associated varieties with the representation theory and modular properties of vertex algebras. In this talk, I will present a classification of all noncritical quasi-lisse levels of simple affine vertex algebra L_k(g) for every finite-dimensional complex simple Lie algebra g. A central result is a denominator-reduction theorem: for k+h^\vee=p/q>0, quasi-lisseness depends only on p and gcd(q,r), where r is the lacing number of g. In simply-laced types, the classification confirms the quasi-lisseness criterion recently predicted by Shan-Yan-Zhao. This is joint work with Dražen Adamović and Xuanzhong Dai."
     },
     {
       id: "2026-12-04-andy-neitzke",
