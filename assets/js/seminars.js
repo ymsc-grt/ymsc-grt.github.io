@@ -120,6 +120,14 @@
       speakerZh: "David Ssevviiri · Makerere University, Kampala, Uganda",
       abstractEn: "For a commutative unital ring R with fixed ideals I and J, we introduce and study I-prime R-modules and (I,J)-prime R-modules together with  their duals I-coprime R-modules and (I,J)-coprime R-modules respectively. We employ category-theoretic techniques to reveal their structural properties. Our main results are versions of the Greenlees-May Duality and the Matlis-Greenlees-May Equivalence to the setting of these prime and coprime modules. This generalizes work on I-reduced modules and I-coreduced modules. We demonstrate that these \"locally prime\" modules serve as a tool for studying the classical \"globally prime\" modules, creating a bridge between local and global primality. This is joint work with Sholastica Luambano."
     },
+     {
+      id: "2026-12-18-Jin-Wang",
+      year: 2026, month: 12, day: 18,
+      titleEn: "TBD",
+      speakerEn: "Baizhou Jin, Zichang Wang · Tsinghua University",
+      speakerZh: "靳柏舟,王子畅 · 清华大学",
+      abstractEn: "TBD"
+    },
     {
       id: "2027-01-08-xinyu-zhang",
       year: 2027, month: 1, day: 8,
